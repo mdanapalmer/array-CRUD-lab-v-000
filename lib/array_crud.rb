@@ -3,5 +3,5 @@ def create_an_empty_array
 end
 
 def create_an_array
-  Array.new = ["Waffles", "Newton", "Zoey", "Godiva"]
+  cats_array = ["Waffles", "Newton", "Zoey", "Godiva"]
 end
